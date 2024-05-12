@@ -1,0 +1,10 @@
+:repo:deb [trusted=yes arch=amd64] http://http.kali.org/kali kali-rolling main contrib non-free
+
+jq
+nmap
+whois
+sqlmap
+libatlas-base-dev
+libc6 
+libc-bin
+amass
